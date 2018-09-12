@@ -1,0 +1,33 @@
+html {
+    font-size: 10px;
+    font-family: "Dancing Script", cursive;
+    font-family: "Source Serif Pro", serif;
+    background-color: #ffbb99;
+}
+h1 {
+    font-family: "Dancing Script", cursive;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #ffbb99;
+    text-shadow: 3px 3px 1px #00539f;
+}    
+p, li {
+    font-family: "Source Serif Pro", serif;
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #9999ff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+img {
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
