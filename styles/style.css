@@ -2,16 +2,15 @@ html {
     font-size: 10px;
     font-family: "Dancing Script", cursive;
     font-family: "Source Serif Pro", serif;
-    background-color: #ffbb99;
+    background-color: black;
 }
 h1 {
-    font-family: "Dancing Script", cursive;
+    font-family: "Source Serif Pro", serif;
     font-size: 60px;
     text-align: center;
     margin: 0;
     padding: 20px 0;
-    color: #ffbb99;
-    text-shadow: 3px 3px 1px #00539f;
+    color: black;
 }    
 p, li {
     font-family: "Source Serif Pro", serif;
